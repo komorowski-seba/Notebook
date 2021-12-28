@@ -1,0 +1,10 @@
+﻿GET https://localhost:5001/test/create
+Accept: application/json
+
+###
+
+GET https://localhost:5001/test/getuserdata
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJBMTIzIiwiZW1haWwiOiJBQDEyMyIsInJvbGUiOiJVc2VyIiwianRpIjoiMWYwOTM2NTktNjI3YS00M2E0LWEyNTgtYzdjNGRlODM0ZWU0IiwiZXhwIjoxNjEyNDc4NTE5LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjYzOTM5LyIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6NjM5MzkvIn0.6NBBceGHtn-CyEFtLSFfcn7Qh2y0SSLtZQp6OJ7JZwg
+
+###

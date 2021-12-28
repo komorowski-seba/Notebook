@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb00d77e0b834780badb9f204463dd80, type: 3}
+  m_Name: LoginInfoModelData
+  m_EditorClassIdentifier: 
+  urlAccesToken: http://localhost:8080/auth/realms/Comment_realm/protocol/openid-connect/token
+  urlCerts: http://localhost:8080/auth/realms/Comment_realm/protocol/openid-connect/certs
+  clientId: client_comment
+  clientSecret: 2f5a12d3-f7b0-4f69-881d-7cd48b46d26e
+  role: note
+  urDomain: https://localhost:5001/
