@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WebApi.Common.Models.Errors
+namespace WebApi.Application.Models.Errors
 {
     public class ErrorListModel
     {

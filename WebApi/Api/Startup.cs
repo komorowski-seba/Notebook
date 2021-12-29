@@ -12,11 +12,8 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using RestSharp;
 using WebApi.Application;
-using WebApi.Application.Services;
-using WebApi.Common.Exceptions;
-using WebApi.Common.Interfaces;
-using WebApi.Common.Models;
-using WebApi.Infrastructure;
+using WebApi.Application.Exceptions;
+using WebApi.Application.Models;
 using WebApi.Infrastructure.Persistence;
 
 namespace Api

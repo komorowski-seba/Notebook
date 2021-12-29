@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 using MediatR;
-using WebApi.Common.Interfaces;
+using WebApi.Application.Interfaces;
 using WebApi.Domain.Common;
 
 namespace WebApi.Application.Handles.Note.Create

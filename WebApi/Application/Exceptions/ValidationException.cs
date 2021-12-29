@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using FluentValidation.Results;
 using Newtonsoft.Json;
-using WebApi.Common.Models.Errors;
+using WebApi.Application.Models.Errors;
 
-namespace WebApi.Common.Exceptions
+namespace WebApi.Application.Exceptions
 {
     public class ValidationException : Exception
     {

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using WebApi.Application.Handles.Note.Create;
 using WebApi.Application.Handles.Note.GetList;
-using WebApi.Common.Models;
+using WebApi.Application.Models;
 
 namespace Api.Controllers
 {

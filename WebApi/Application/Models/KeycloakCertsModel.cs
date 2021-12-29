@@ -2,7 +2,7 @@
 using Microsoft.IdentityModel.Tokens;
 using Newtonsoft.Json;
 
-namespace WebApi.Common.Models
+namespace WebApi.Application.Models
 {
     public class KeycloakCertsModel
     {

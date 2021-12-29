@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WebApi.Common.Interfaces
+namespace WebApi.Application.Interfaces
 {
     public interface ICurrentUserService
     {

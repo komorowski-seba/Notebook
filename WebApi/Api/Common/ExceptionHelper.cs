@@ -4,8 +4,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
-using WebApi.Common.Exceptions;
-using WebApi.Common.Models.Errors;
+using WebApi.Application.Exceptions;
+using WebApi.Application.Models.Errors;
 
 namespace Api.Common
 {

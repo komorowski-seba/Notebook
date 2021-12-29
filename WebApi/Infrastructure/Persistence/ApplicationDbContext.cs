@@ -3,7 +3,7 @@ using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using WebApi.Common.Interfaces;
+using WebApi.Application.Interfaces;
 using WebApi.Domain.Common;
 using WebApi.Domain.Entity;
 

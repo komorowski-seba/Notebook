@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using WebApi.Common.Interfaces;
+using WebApi.Application.Interfaces;
 using WebApi.Domain.Common;
 using WebApi.Infrastructure.Persistence.Repositories;
 

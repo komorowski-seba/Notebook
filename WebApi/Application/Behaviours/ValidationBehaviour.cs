@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using FluentValidation;
 using MediatR;
-using ValidationException = WebApi.Common.Exceptions.ValidationException;
+using ValidationException = WebApi.Application.Exceptions.ValidationException;
 
 namespace WebApi.Application.Behaviours
 {

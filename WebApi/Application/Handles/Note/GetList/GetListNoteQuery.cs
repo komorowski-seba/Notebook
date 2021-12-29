@@ -3,8 +3,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using AutoMapper;
 using MediatR;
-using WebApi.Common.Interfaces;
-using WebApi.Common.Models;
+using WebApi.Application.Interfaces;
+using WebApi.Application.Models;
 using WebApi.Domain.Common;
 
 namespace WebApi.Application.Handles.Note.GetList

@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using WebApi.Common.Models;
+using WebApi.Application.Models;
 using WebApi.Domain.Entity;
 
 namespace WebApi.Application.Mappings

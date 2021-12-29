@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WebApi.Common.Exceptions
+namespace WebApi.Application.Exceptions
 {
     public class SecurityKeysException : Exception
     {

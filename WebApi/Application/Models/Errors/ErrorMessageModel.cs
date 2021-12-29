@@ -1,4 +1,4 @@
-﻿namespace WebApi.Common.Models.Errors
+﻿namespace WebApi.Application.Models.Errors
 {
     public class ErrorMessageModel
     {

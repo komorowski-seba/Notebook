@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Http;
-using WebApi.Common.Interfaces;
+using WebApi.Application.Interfaces;
 
 namespace WebApi.Application.Services
 {

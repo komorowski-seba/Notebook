@@ -3,8 +3,8 @@ using FluentValidation;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using WebApi.Application.Behaviours;
+using WebApi.Application.Interfaces;
 using WebApi.Application.Services;
-using WebApi.Common.Interfaces;
 
 namespace WebApi.Application
 {
