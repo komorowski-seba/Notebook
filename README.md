@@ -94,7 +94,7 @@ To log in to the service: http://localhost:8080
 Creates a new separate space for 
 <span style="color:LightSteelBlue">customers, roles and users</span>
 
-![Keycloak Realm](Docs/Imgs/realm.png "Realm")
+![Keycloak Realm](Docs/Imgs/realm.png)
 
 I left only **RSA RS256** for token verification.
 This can be found in the <span style="color:LightSteelBlue">Realm Settings->Keys->Active</span>
@@ -403,4 +403,9 @@ in the plugins folder are:
 - Newtonsoft.Json
 - RestSharp
 
-![Notes List](Docs/Imgs/app_plugins.png "API")
+![Notes List](Docs/Imgs/app_plugins.png)
+
+I would forget of one more important thing **LoginInfoModelData** <br />
+In this ScriptableObjects we define the important URL of the application
+
+![Notes List](Docs/Imgs/app_login_info.png)
